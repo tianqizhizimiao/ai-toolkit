@@ -199,6 +199,4 @@ aitoolkit/
 └── README.md        # 本文档
 ```
 
-## License
 
-MIT
